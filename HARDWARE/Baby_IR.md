@@ -21,7 +21,7 @@ An IR Communication was sniffed between two people. The data was a pile of binar
 9.111111011000000001111111
 ```
 ## attachment
-click [here](https://www.tinkercad.com/things/4slF5jEpkEQ-copy-of-sniffcomm/editel?tenant=circuits)
+click [here](https://www.tinkercad.com/things/4slF5jEpkEQ-copy-of-sniffcomm/editel?tenant=circuits) to redirect to the tinkercad
 
 ## How I did it
 Some binary digits where given. I just analysed the code for arduino and saw that the flag was a combination of hexadecimal values. So just converted the binary to hexa and made a sting combining them in the order and got the flag.
