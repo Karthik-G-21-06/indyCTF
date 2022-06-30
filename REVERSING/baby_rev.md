@@ -1,4 +1,4 @@
-# Baby_rev              ##category: REVERSING
+# Baby_rev            
 ## Description
 Here id a firmware dump. Can you find the flag
 ## Attachment
