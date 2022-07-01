@@ -6,7 +6,7 @@ Download the attachment [here](https://traboda-arena-36.s3.amazonaws.com/files/a
 ## How I did it
 Just took the image and converted the binary to text and got the flag.
 
-<img src="picture/NoiceUART.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<img src="picture/NoiceUART.png" style="height: 100px; width:100px;"/>
 
 
 ## Flag
