@@ -1,6 +1,5 @@
 # (net)cat out of the bag
-## difficulty-EASY
-## Category- programming
+
 ## Description
 indy will put desc later
 ## how i did it
