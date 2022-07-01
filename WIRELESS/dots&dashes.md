@@ -6,5 +6,9 @@ download the attachment from [here](https://traboda-arena-36.s3.amazonaws.com/fi
 
 ## How i did it
 I just downloaded the audio file and used an online morse code to text converter. Got the flag form the converted text.
+
+<img src="/picture/dots&dashes.png" style="height: 500px; width:500px;"/>
+
+
 ## Flag
 the flag is: ictf{R1CKR0113DONMRS3}
