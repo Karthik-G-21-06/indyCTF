@@ -13,12 +13,12 @@ Can yu make the output high
 
 the first link will take you a logic circuit diagram. As given the description that the final value should  be one just reverse the process and we will get values for as a->1,b->0,c->0,d->1. 
 
-<img src="/picture/inspec-2.png" style="height: 500px; width:750px;"/>
+<img src="/picture/hello-1.png" style="height: 500px; width:750px;"/>
 
 Now i went to the second link gave the values for a,b,c and d and got the flag
 
-<img src="/picture/inspec-2.png" style="height: 500px; width:750px;"/>
+<img src="/picture/hello-2.png" style="height: 500px; width:750px;"/>
 
 # Flag 
-The flag is:ictf{G00d_woRk}
+The flag is: ```ictf{G00d_woRk}```
  
