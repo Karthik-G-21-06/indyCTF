@@ -11,12 +11,15 @@ Hint: http://practicalcryptography.com/ciphers/polyalphabetic-substitution-categ
 
 ## HOw I did it
 firstly the ciphertext by hearing itself it confirmed that the file a morsecode.Converted and got the ciphertext. 
+
 <img src="/picture/murphy-1.png" style="height: 500px; width:750px;"/>
 
 The second was not a morscode audio file. As the previous questions i used the audacity and inside that if we take the spectrogram we will get the key as:
+
 <img src="/picture/murphy-2.png" style="height: 500px; width:750px;"/>
 
 now go the website given as hint go through each and in the second one we will get the flag .
+
 <img src="/picture/murphy-3.png" style="height: 500px; width:750px;"/>
 
 
