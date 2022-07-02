@@ -9,5 +9,5 @@ Analyzing stuffs are pretty interesting if we are using proper tools for it
 So as the hint suggest I search for tools to analyse .logicdata file and found a tool called [saleae logic](https://support.saleae.com/logic-software/sw-download). I just analysed to file and saw that another hint was given to shift the baud rate to 12 times the present i.e from 9600 to 115200. now in the second channel I got the flag.
 
 ## Flag
-This is the flag:ictf{part_of_a_balanced_breakfast}
+This is the flag:ictf{part_of_a_balanced_breakfast} 
 
