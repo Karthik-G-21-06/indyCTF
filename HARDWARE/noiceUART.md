@@ -10,4 +10,4 @@ Just took the image and converted the binary to text and got the flag.
 
 
 ## Flag
-The flag is : ictf{R128ASB}
+The flag is : ```ictf{R128ASB}```
