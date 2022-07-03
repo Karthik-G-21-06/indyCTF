@@ -16,6 +16,6 @@ Now for the second flag go to console flag can be seen
 
 ## Flag 
 the flags are:
-first: ictf{p1ze_0f_C4k3}
+first: ```ictf{p1ze_0f_C4k3}```
 
 second: ```ictf{6056299a98a3a12b84437db9c063e36d66}```
