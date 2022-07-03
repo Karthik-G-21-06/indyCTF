@@ -9,4 +9,4 @@ firstly download the .wav file. Now open it in Audacity as suggested in hint on 
 <img src="/picture/4chans.png" alt="4chan's favorite" style="height: 500px; width:500px;"/>
 
 ## Flag
-the flag is : ictf{rick_astley}
+the flag is : ```ictf{rick_astley}```
