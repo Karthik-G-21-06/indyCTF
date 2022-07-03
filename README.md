@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/63066084/174456311-116a8bba-78bb-48ce-9cd6-5835e662aee1.png" height="350px" width="600px">
 </div>
-this is writeups about the varies challenges I did in indyCTF for bi0s hardware recruitment CTF for 1st years 
+this is writeups about the varies challenges I did in indyCTF for bi0s hardware recruitment CTF for 1st years. IndyCTF is an opportunity to boost the understanding and recognition of hardware security and to add another dimension to traditional CTFs. The CTF is based to demonstrate different hardware security concepts and to create a skilled community around hardware, that sparks new conversations and push to make that quantum leap. This Hardware CTF presents challenges which will help you to understand the basic concepts of Automotive security, ICS-SCADA, wireless security and firmware analysis with a moment to get accustomed to the new tools to get ahead in cyberspace. 
 
 # Submitted
 
