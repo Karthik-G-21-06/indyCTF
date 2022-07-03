@@ -3,7 +3,7 @@
 ## Description
 one challenge, two flags!!
 ## Deployment
-[Deployment](https://indyctf.github.io/2022-ictf/web/web_inspector/)
+[Deployment](https://indyctf.github.io/2022-ictf/web/web_inspector)
 
 ## How I did it
 the first flag is in inspecter in inspect.
