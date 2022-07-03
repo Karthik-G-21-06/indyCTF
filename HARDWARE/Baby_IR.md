@@ -27,4 +27,4 @@ click [here](https://www.tinkercad.com/things/4slF5jEpkEQ-copy-of-sniffcomm/edit
 Some binary digits where given. I just analysed the code for arduino and saw that the flag was a combination of hexadecimal values. So just converted the binary to hexa and made a sting combining them in the order and got the flag.
 
 ## Flag
-the flag is: ictf{whrs_m4_flaG}
+the flag is: ```ictf{whrs_m4_flaG}```
