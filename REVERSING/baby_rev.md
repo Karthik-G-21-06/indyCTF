@@ -8,4 +8,4 @@ The challenge provides a binary file.So firstly I used stings in terminal and go
 
 ## Flag
 
-The flag is:ictf{b30cb82af09abeba892a4242ccfb854977e}
+The flag is: ```ictf{b30cb82af09abeba892a4242ccfb854977e}```
