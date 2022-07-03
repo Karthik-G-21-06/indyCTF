@@ -30,4 +30,10 @@ this is writeups about the varies challenges I did in indyCTF for bi0s hardware 
 2. [easy_as_you](https://github.com/Karthik-G-21-06/indyCTF/blob/main/REVERSING/easyasyou.md)
 
 ## Programming
-1. [net cat out of the bag
+1. [net cat out of the bag](https://github.com/Karthik-G-21-06/indyCTF/blob/main/MISC/netcat.md)
+
+# Solved not submitted
+
+1. [5niff-1t](https://github.com/Karthik-G-21-06/indyCTF/blob/main/HARDWARE/5niff--1t.md)
+2. [Baby_ir](https://github.com/Karthik-G-21-06/indyCTF/blob/main/HARDWARE/Baby_IR.md)
+3. [murphy's_ghost](https://github.com/Karthik-G-21-06/indyCTF/blob/main/WIRELESS/murphy_ghost.md)
